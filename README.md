@@ -9,7 +9,8 @@ This portfolio is designed to showcase my skills, projects, and experience as a 
 ## 🌐 Live Demo
 
 🔗 **Live Portfolio:**  
-https://vercel.com/mahalakshmichimpiri0-1380s-projects
+
+astonishing-faun-ff1451.netlify.app
 ---
 
 ## 📌 About the Project
