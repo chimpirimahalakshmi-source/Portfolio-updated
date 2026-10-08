@@ -10,7 +10,7 @@ This portfolio is designed to showcase my skills, projects, and experience as a 
 
 🔗 **Live Portfolio:**  
 
-astonishing-faun-ff1451.netlify.app
+https://astonishing-faun-ff1451.netlify.app
 ---
 
 ## 📌 About the Project
